@@ -23,4 +23,4 @@ This project is a job scheduling system that handles multiple tasks concurrently
 ## How to Run
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/Job-Scheduler-Project.git
+   git clone https://github.com/sakalesha/Job-Scheduler-Project
